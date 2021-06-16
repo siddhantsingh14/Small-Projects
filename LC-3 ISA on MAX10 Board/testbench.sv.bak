@@ -1,0 +1,141 @@
+module testbench();
+
+				timeunit 10ns;
+
+				timeprecision 1ns;
+
+				logic clock = 0;
+				logic Reset;
+				logic LoadB_clearA;
+				logic Run;					
+				logic [7:0] SW;
+
+				logic Xval;
+				logic [7:0] Aval;
+				logic [7:0] Bval;
+
+				Multiplier M
+				(
+					.Clk(clock),
+					.Reset(Reset),
+					.LoadB_clearA(LoadB_clearA),
+					.Run(Run),
+					.SW(SW),
+					
+					.Xval(Xval),
+					.Aval(Aval),
+					.Bval(Bval),
+					
+					.HEX0(),
+					.HEX2(),
+					.HEX1(),
+					.HEX3()
+				);
+
+
+
+				always begin : CLOCK_GENERATION
+				#1		clock = ~clock;
+				end
+
+				initial begin: CLOCK_INITIALIZATION
+						clock = 0;
+				end 
+
+
+				initial begin 
+				#2
+
+
+				#2 Reset = 1'b0;
+				#2 Reset = 1'b1;
+
+
+				//test one - +ve * +ve
+
+				#4 SW = 8'd59;
+
+
+				#2 LoadB_clearA = 1'b0;
+				#2; LoadB_clearA = 1'b1;
+
+				#4;
+
+				SW = 8'd07;
+
+				#2
+				Run = 1'b0;
+				#2
+				Run = 1'b1;
+
+				//test two - -ve * +ve
+
+				#100
+				SW = -8'd59;
+				
+				#2
+				LoadB_clearA = 1'b0;
+				#2
+				LoadB_clearA = 1'b1;
+
+				#4
+				SW = 8'd07;
+
+				#2
+				Run = 1'b0;
+				#2
+				Run = 1'b1;
+
+
+				//test three - +ve * -ve
+
+				#100
+				SW = 8'd59;
+				
+				#2
+				LoadB_clearA = 1'b0;
+				#2
+				LoadB_clearA = 1'b1;
+
+				#4
+				SW = -8'd07;
+
+				#2
+				Run = 1'b0;
+				#2
+				Run = 1'b1;
+
+				//test four -ve  * -ve
+
+
+				#100
+				SW = -8'd02;
+				
+				#2
+				LoadB_clearA = 1'b0;
+				#2
+				LoadB_clearA = 1'b1;
+
+				#4
+				SW = -8'd02;
+
+				#2
+				Run = 1'b0;
+				#2
+				Run = 1'b1;
+				#2
+				Run = 1'b0;
+				#2
+				Run = 1'b1;
+				#2
+				Run = 1'b0;
+				#2
+				Run = 1'b1;
+				#2
+				Run = 1'b0;
+				#2
+				Run = 1'b1;
+
+				end
+
+endmodule 

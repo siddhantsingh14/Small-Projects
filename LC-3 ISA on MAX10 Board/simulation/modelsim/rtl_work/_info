@@ -1,0 +1,644 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/simulation/modelsim
+vALUmux
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1616215058
+!i10b 1
+!s100 fNYa[0HmRNYKDgQHA1EP?1
+I?zm^R`9WEX21HXO22YS9c3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 support_module_sv_unit
+S1
+R0
+Z5 w1615593524
+Z6 8C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/support_module.sv
+Z7 FC:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/support_module.sv
+L0 149
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1616215058.000000
+Z10 !s107 C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/support_module.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021|C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/support_module.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work {+incdir+C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021}
+Z14 tCvgOpt 0
+n@a@l@umux
+vBENNZP
+R1
+R2
+!i10b 1
+!s100 LX<I4a4H<@D8YST^19nL;1
+Ib?FRF_NVLaY>NZFMO`9IX3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 281
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+n@b@e@n@n@z@p
+vdatapath
+R1
+R2
+!i10b 1
+!s100 b?X^TAjMSSLgJ:20Xcn4c1
+InD0gTNNXHl[1MHbH6Ta;P1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vgatemux
+R1
+R2
+!i10b 1
+!s100 m9IjTj>V>:5VI9^ePTPBl2
+I0^E?mMbQYHk6[kQ>b`iTY3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 129
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vHexDriver
+R1
+R2
+!i10b 1
+!s100 ^DddjRd7Wla]U<SlP;mT@0
+IGJSblLWI5MZWmHVBDC;TH0
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+w1614378005
+8C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/HexDriver.sv
+FC:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/HexDriver.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021|C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/HexDriver.sv|
+!i113 1
+R12
+R13
+R14
+n@hex@driver
+vISDU
+R1
+Z15 !s110 1616215059
+!i10b 1
+!s100 c;nkTkD_EXXFo3lmD_KBP1
+I3_9OLNjG_K`Y5o?N]61Qd3
+R3
+!s105 ISDU_sv_unit
+S1
+R0
+w1615593780
+8C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/ISDU.sv
+FC:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/ISDU.sv
+L0 19
+R8
+r1
+!s85 0
+31
+Z16 !s108 1616215059.000000
+!s107 C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/ISDU.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021|C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/ISDU.sv|
+!i113 1
+R12
+R13
+R14
+n@i@s@d@u
+vLED_control
+R1
+R2
+!i10b 1
+!s100 ?g8lj6gf6E`H103Y8mk=_1
+I<<JI7?U@GWT5QA_74OGBK2
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 338
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+n@l@e@d_control
+vMem2IO
+R1
+R15
+!i10b 1
+!s100 ]Q:NN9GIUgNPLn_MG6U5k1
+IAl2BGS@KRDYePLOhg[GW@2
+R3
+!s105 Mem2IO_sv_unit
+S1
+R0
+w1591652656
+8C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/Mem2IO.sv
+FC:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/Mem2IO.sv
+Z17 L0 16
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/Mem2IO.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021|C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/Mem2IO.sv|
+!i113 1
+R12
+R13
+R14
+n@mem2@i@o
+Xmemory_contents_sv_unit
+R1
+Z18 DXx4 work 6 SLC3_2 0 22 JSb;W1FBXFYYlKXWclLKC3
+V<T=^TYYhekeRFD5mzc7D:0
+r1
+!s85 0
+31
+!i10b 1
+!s100 3HBe^oHDgeVH<TZocfCK[0
+I<T=^TYYhekeRFD5mzc7D:0
+!i103 1
+S1
+R0
+Z19 w1591637472
+Z20 8C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/memory_contents.sv
+Z21 FC:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/memory_contents.sv
+R17
+R8
+R16
+Z22 !s107 C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/memory_contents.sv|
+Z23 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021|C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/memory_contents.sv|
+!i113 1
+R12
+R13
+R14
+vmemory_parser
+R1
+R18
+DXx4 work 23 memory_contents_sv_unit 0 22 <T=^TYYhekeRFD5mzc7D:0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 o:B0TTcXZa[?Oo3HFa9T;0
+I=a@90EYe02B03M6WPK]ia1
+!s105 memory_contents_sv_unit
+S1
+R0
+R19
+R20
+R21
+L0 18
+R8
+R16
+R22
+R23
+!i113 1
+R12
+R13
+R14
+vmiomux
+R1
+R2
+!i10b 1
+!s100 F2Y8llkXbDMU8TNcEIk6l0
+I_JN]aNmXb>QdEzHT?V2Rm2
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 111
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vmux_2
+R1
+R2
+!i10b 1
+!s100 EVb6?oaLVkGBYE6SVFfH?0
+IT`41MKg_<TIoTIl7:OZla3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 200
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vmux_4
+R1
+R2
+!i10b 1
+!s100 9iz`42i5PP8b>HYd;YQ^j1
+I?heDmM`@NkY_O06[^AR763
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 182
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vmux_DR_SR1
+R1
+R2
+!i10b 1
+!s100 QandI0^UT16z?]mMCQT:X1
+IoVU71RN?nIoVYT[d^d>E`3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 166
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+nmux_@d@r_@s@r1
+vpcmux
+R1
+R2
+!i10b 1
+!s100 ee0oFjTQN4FFLV=z?c]>j1
+IW>Ego7UZ7nazO^2OncKcT2
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 94
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vregister
+R1
+R2
+!i10b 1
+!s100 >]_IB?Tg<2PnFOdniI1Wj2
+IC:S5:PbP>i[dH=W664UYW3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 74
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vregisterFile
+R1
+R2
+!i10b 1
+!s100 fzClz1MoV6h3YSk7BThEB1
+IRN>52Xhlkn8ZG[X:YXz_;1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 218
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+nregister@file
+vslc3
+R1
+R15
+!i10b 1
+!s100 kKE<c:LiCIgQRnkFh8[>b0
+I9W1[Zh:o1nGSDEM_?nfGP3
+R3
+!s105 slc3_sv_unit
+S1
+R0
+w1615593702
+8C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/slc3.sv
+FC:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/slc3.sv
+L0 20
+R8
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/slc3.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021|C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/slc3.sv|
+!i113 1
+R12
+R13
+R14
+XSLC3_2
+R1
+R2
+!i10b 1
+!s100 Cz8_^@QRefP31?j=Zf>lj0
+IJSb;W1FBXFYYlKXWclLKC3
+VJSb;W1FBXFYYlKXWclLKC3
+S1
+R0
+w1506381592
+8C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/SLC3_2.sv
+FC:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/SLC3_2.sv
+L0 24
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/SLC3_2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021|C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/SLC3_2.sv|
+!i113 1
+R12
+R13
+R14
+n@s@l@c3_2
+vslc3_testtop
+R1
+R15
+!i10b 1
+!s100 YzAml?JAaenKS2H@Y?U2;2
+I[kVJ36^Ih3gNMP^j;9AKn1
+R3
+!s105 slc3_testtop_sv_unit
+S1
+R0
+w1615570896
+8C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/slc3_testtop.sv
+FC:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/slc3_testtop.sv
+L0 4
+R8
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/slc3_testtop.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021|C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/slc3_testtop.sv|
+!i113 1
+R12
+R13
+R14
+vsync
+R1
+R2
+!i10b 1
+!s100 OHNUFN]797>kYzRL;ikZR2
+IeaA8B?47mXkV7kHBeYRM53
+R3
+Z24 !s105 synchronizers_sv_unit
+S1
+R0
+Z25 w1591500476
+Z26 8C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/synchronizers.sv
+Z27 FC:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/synchronizers.sv
+L0 7
+R8
+r1
+!s85 0
+31
+R9
+Z28 !s107 C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/synchronizers.sv|
+Z29 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021|C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/synchronizers.sv|
+!i113 1
+R12
+R13
+R14
+vsync_r0
+R1
+R2
+!i10b 1
+!s100 _Sn:CfHFjznVZen=7jc>C2
+InYKd^HLc2b]X0L<PGCcT<1
+R3
+R24
+S1
+R0
+R25
+R26
+R27
+L0 21
+R8
+r1
+!s85 0
+31
+R9
+R28
+R29
+!i113 1
+R12
+R13
+R14
+vsync_r1
+R1
+R2
+!i10b 1
+!s100 4jfZd?z`MK2Y<NLFC0<QH2
+IzHchSI<PUiS;YV_im:=Yi2
+R3
+R24
+S1
+R0
+R25
+R26
+R27
+L0 42
+R8
+r1
+!s85 0
+31
+R9
+R28
+R29
+!i113 1
+R12
+R13
+R14
+vtest_memory
+R1
+R2
+!i10b 1
+!s100 JAXhO?6GV:H>``me>_X5<1
+Ih?6OcB;^^NPiMPRCRdNIf2
+R3
+!s105 test_memory_sv_unit
+S1
+R0
+w1591648402
+8C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/test_memory.sv
+FC:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/test_memory.sv
+L0 26
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/test_memory.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021|C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/test_memory.sv|
+!i113 1
+R12
+R13
+R14
+vtestbench
+R1
+R15
+!i10b 1
+!s100 Cl2UjdBI0`PE;m366emol3
+IIg;WVL3RD=;LTAYH6AlBH0
+R3
+!s105 testbench_sv_unit
+S1
+R0
+w1616215022
+8C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/testbench.sv
+FC:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/testbench.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021|C:/Users/siddh/Google Drive/UIUC/Academic Years/Junior/Spring 2021/ECE385/Labs/Lab 5/Lab5provided_sp2021/testbench.sv|
+!i113 1
+R12
+R13
+R14
